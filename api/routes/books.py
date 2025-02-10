@@ -30,13 +30,6 @@ db.books = {
         publication_year=1955,
         genre=Genre.FANTASY,
     ),
-    4: Book(
-        id=4,
-        title="Harry Potter and the Sorcerer's Stone",
-        author="J.K. Rowling",
-        publication_year=1997,
-        genre=Genre.FANTASY,
-    ),
 }
 
 
